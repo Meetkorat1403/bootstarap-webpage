@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Get-started{
+    background-color: #007f66;
+}
+
+.nav-item{
+    padding: 0px 300px 0px 310px;
+}
+
+.navbar-brand{
+    margin: 0;
+}
+
+.heading1{
+    width: 510px;
+    font-size: 70px;
+}
+
+.globle{
+    color: #007f66;
+}
+
+.paragraph1{
+    width: 440px;
+    margin-bottom: 40px;
+}
+
+.email{
+    width: 300px;
+    margin-right: 20px;
+}
+
+.main-image{
+    height: 630px;
+    width: 500px;
+}
+
+.logo1{
+    height: 50px;
+    width: 150px;   
+}
+
+.ENTERPRISE{
+    background-color: rgb(0 163 134 / 20%);
+}
+
+.director{
+    color:  #a8b2b9;
+}
+
+.box-border{
+    border-radius: 50px 5px;
+}
+
+.border-color{
+   border: 3px solid #007f66; 
+   background-color: #007f66;
+}
+
+.full-bg{
+    background-color: #007f66;
+}
+
+.start{
+    color: #78e1cc;
+}
+
+.Get-started{
+    background-color: #78e1cc;
+}   
+
+.fourth-image{
+    height: 265px;
+    width: 365px;
+}
+
+.footer{
+    background-color: #007f66;
+}
+
+.footer-brand{
+    color: white;
+}
+
+.line-main{
+    background-color: #007f66;
+    padding-left: 50px;
+}
+
+.line{
+    background-color: white;
+    height: 2px;
+    width: 1400px;
+}
+
+.last{
+    background-color: #007f66;
+}
